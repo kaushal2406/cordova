@@ -1,0 +1,51 @@
+<!doctype html>
+<html class="no-js" >
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Angular Demo</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, 
+                                     initial-scale=1.0">
+<link rel="stylesheet"
+	href="bower_components/bootstrap/dist/css/bootstrap.css" />
+<link rel="stylesheet" href="styles/main.css">
+<!-- endbuild -->
+</head>
+<body>
+	<div class="container">
+		<!-- View render tag -->
+		<div ng-view>
+		</div>
+		<!-- Footer  -->
+		<div class="footer">
+			<p> Developed by Kaushal Prajapati</p>
+		</div>
+	</div>
+
+	<!-- build:js scripts/vendor.js -->
+	<!-- dependent js  -->
+	<script type="text/javascript" src="cordova.js"></script>
+	<script type="text/javascript" src="SQLitePlugin.js"></script>
+	<script type="text/javascript" src="scripts/controllers/index.js"></script>
+
+	<script src="bower_components/jquery/jquery.js"></script>
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="bower_components/angular-route/angular-route.js"></script>
+	<!-- endbower -->
+	<!-- endbuild -->
+
+	<!-- controller & route js -->
+	<script src="scripts/app.js"></script>
+	<script src="scripts/DeviceReadyService.js"></script>
+	<script src="scripts/DatabaseService.js"></script>
+	<script src="scripts/contactDirective.js"></script>
+	<script src="scripts/controllers/main.js"></script>
+	<script src="scripts/controllers/student.js"></script>
+	
+	<!-- endbuild -->
+</body>
+</html>
+
