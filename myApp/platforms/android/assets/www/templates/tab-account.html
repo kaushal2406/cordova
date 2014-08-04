@@ -1,0 +1,10 @@
+<ion-view title="Account">
+  <ion-content class="has-header padding">
+    <h1>Account</h1>
+    <ion-list>
+      <ion-item ng-repeat="student in students" type="item-text-wrap" href="#/tab/student/{{student.studentId}}">
+        {{student.name}},{{student.interest}},</br>{{student.schoolName}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

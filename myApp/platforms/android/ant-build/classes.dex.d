@@ -1,0 +1,19 @@
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes.dex : \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$1.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$QueryType.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBRunner.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBQuery.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$Action.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/myApp.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/R.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/BuildConfig.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/R$attr.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/R$string.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/R$drawable.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionicframework/myapp553141/R$xml.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/home/aspire14/kaushal/kaushal2406/kaushal2406/myApp/platforms/android/ant-build/dexedLibs/classes-1177bee337df23ebb44aba466e61675d.jar \
